@@ -1,5 +1,5 @@
 -  Hi, I’m @HarpethLee
-- I’m currently studying statistics at Reed College.
+- I’m currently studying statistics at UC Berkeley.
 
 <!---
 HarpethLee/HarpethLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
